@@ -14,6 +14,10 @@ Periodically, I'll post blogs about what I've learned about <font color='red'>AI
 
 My email: yuqy22@mails.tsinghua.edu.cn
 
-# Publication
+## Research Persuit
+
+I am devoting all myself to pursue a *big convergence of language, vision and multimodal learning*, to help machines comprehensively understand the fanscinating world, like person.
+
+## Publication
 
 **Qiying Yu**, Jieming Lou, Xianyuan Zhan, Qizhang Li, Wangmeng Zuo, Yang Liu and Jingjing Liu. [Adversarial Contrastive Learning via Asymmetric InfoNCE](https://arxiv.org/abs/2207.08374). ECCV 2022. [[code](https://github.com/yqy2001/A-InfoNCE)]
