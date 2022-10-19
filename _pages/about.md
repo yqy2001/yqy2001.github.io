@@ -16,7 +16,7 @@ My email: yuqy22@mails.tsinghua.edu.cn
 
 ## Research Persuit
 
-I am devoting all myself to pursue a *big convergence of language, vision and multimodal learning*, to help machines comprehensively understand the fanscinating world, like person.
+I am devoting all myself to pursue a *big convergence of language, vision and multimodal learning*, to help machines comprehensively understand the fanscinating world, like human.
 
 ## Publication
 
