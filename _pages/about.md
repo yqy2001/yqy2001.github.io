@@ -20,4 +20,7 @@ I am devoting all myself to pursue a *big convergence of language, vision and mu
 
 ## Publication
 
+Libo Qin, Zhouyang Li, **Qiying Yu**, Lehan Wang, Wanxiang Che. Towards Complex Scenarios: Building End-to-end Task-oriented Dialogue System across Multiple Knowledge Bases. AAAI 2023. 
+
 **Qiying Yu**, Jieming Lou, Xianyuan Zhan, Qizhang Li, Wangmeng Zuo, Yang Liu and Jingjing Liu. [Adversarial Contrastive Learning via Asymmetric InfoNCE](https://arxiv.org/abs/2207.08374). ECCV 2022. [[code](https://github.com/yqy2001/A-InfoNCE)]
+
