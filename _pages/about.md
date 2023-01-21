@@ -24,7 +24,7 @@ I am devoting all myself to pursue a *big convergence of language, vision and mu
 
 2023.01 -- Now, Beijing Academy of Artificial Intelligence (BAAI), metored by [Yue Cao](http://yue-cao.me).
 
-## Publication
+## Publications
 
 **Qiying Yu**, Yimu Wang, Ke Xu, Yang Liu, Jingjing Liu. Multimodal Federated Learning via Contrastive Representation Ensemble. ICLR 2023.
 
