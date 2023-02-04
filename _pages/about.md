@@ -26,7 +26,7 @@ I am devoting all myself to pursue a *big convergence of language, vision and mu
 
 ## Publications
 
-**Qiying Yu**, Yimu Wang, Ke Xu, Yang Liu, Jingjing Liu. Multimodal Federated Learning via Contrastive Representation Ensemble. ICLR 2023.
+**Qiying Yu**, Yimu Wang, Ke Xu, Yang Liu, Jingjing Liu. [Multimodal Federated Learning via Contrastive Representation Ensemble](https://openreview.net/pdf?id=Hnk1WRMAYqg). ICLR 2023.
 
 Libo Qin, Zhouyang Li, **Qiying Yu**, Lehan Wang, Wanxiang Che. Towards Complex Scenarios: Building End-to-end Task-oriented Dialogue System across Multiple Knowledge Bases. AAAI 2023. 
 
