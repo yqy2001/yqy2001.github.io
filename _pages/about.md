@@ -22,7 +22,7 @@ I am devoting all myself to pursue a *big convergence of language, vision and mu
 
 ## Internships
 
-2023.01 -- Now, Beijing Academy of Artificial Intelligence (BAAI), metored by [Yue Cao](http://yue-cao.me).
+2023.01 -- Now, Beijing Academy of Artificial Intelligence (BAAI), metored by [Yue Cao](http://yue-cao.me) and [Quan Sun](https://github.com/Quan-Sun).
 
 ## Publications
 
