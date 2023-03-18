@@ -36,6 +36,6 @@ Libo Qin, Zhouyang Li, **Qiying Yu**, Lehan Wang, Wanxiang Che. Towards Complex 
 
 Below are some researchers from around the world whom I **greatly admire**:
 
-They have had a profound impact on me with their incredible open-source spirit: [Andrej Karpathy](https://karpathy.ai/), [Mu Li](http://www.cs.cmu.edu/~muli/index.html)
+[Andrej Karpathy](https://karpathy.ai/), [Mu Li](http://www.cs.cmu.edu/~muli/index.html). They have had a profound impact on me with their incredible open-source spirit.
 
 Ilya Sutskever
