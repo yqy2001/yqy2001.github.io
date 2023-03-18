@@ -32,3 +32,10 @@ Libo Qin, Zhouyang Li, **Qiying Yu**, Lehan Wang, Wanxiang Che. Towards Complex 
 
 **Qiying Yu**, Jieming Lou, Xianyuan Zhan, Qizhang Li, Wangmeng Zuo, Yang Liu and Jingjing Liu. [Adversarial Contrastive Learning via Asymmetric InfoNCE](https://arxiv.org/abs/2207.08374). ECCV 2022. [[code](https://github.com/yqy2001/A-InfoNCE)]
 
+## Inspirational Persons:
+
+Below are some researchers from around the world whom I **greatly admire**:
+
+They have had a profound impact on me with their incredible open-source spirit: [Andrej Karpathy](https://karpathy.ai/), [Mu Li](http://www.cs.cmu.edu/~muli/index.html)
+
+Ilya Sutskever
