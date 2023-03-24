@@ -18,7 +18,7 @@ My email: yuqy22@mails.tsinghua.edu.cn
 
 ## Research Persuit
 
-I am devoting all myself to pursue a *big convergence of language, vision and multimodal learning*, to help machines comprehensively understand the fanscinating world, like human.
+I am devoting all myself to pursue a *big convergence of language, vision and multimodal learning*, to help machines comprehensively understand the fanscinating world, like human. (also well known as, **AGI**)
 
 ## Internships
 
@@ -26,7 +26,7 @@ I am devoting all myself to pursue a *big convergence of language, vision and mu
 
 ## Publications
 
-**Qiying Yu**, Yimu Wang, Ke Xu, Yang Liu, Jingjing Liu. [Multimodal Federated Learning via Contrastive Representation Ensemble](https://openreview.net/pdf?id=Hnk1WRMAYqg). ICLR 2023.
+**Qiying Yu**, Yimu Wang, Ke Xu, Yang Liu, Jingjing Liu. [Multimodal Federated Learning via Contrastive Representation Ensemble](https://openreview.net/pdf?id=Hnk1WRMAYqg). ICLR 2023. [[code](https://github.com/FLAIR-THU/CreamFL)]
 
 Libo Qin, Zhouyang Li, **Qiying Yu**, Lehan Wang, Wanxiang Che. Towards Complex Scenarios: Building End-to-end Task-oriented Dialogue System across Multiple Knowledge Bases. AAAI 2023. 
 
