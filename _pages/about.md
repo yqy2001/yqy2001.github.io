@@ -18,11 +18,13 @@ My email: yuqy22@mails.tsinghua.edu.cn
 
 ## Research Persuit
 
-I am devoting all myself to pursue a *big convergence of language, vision and multimodal learning*, to help machines comprehensively understand the fanscinating world, like human. (also well known as, **AGI**)
+I am devoting all myself to pursue the birth of *super intelligence*. Only after this goal is achieved can I truly retire :).
+
+~~*big convergence of language, vision and multimodal learning*, to help machines comprehensively understand the fanscinating world, like human. (also well known as, **AGI**)~~
 
 ## Internships
 
-2023.01 -- Now, Beijing Academy of Artificial Intelligence (BAAI), metored by [Yue Cao](http://yue-cao.me) and [Quan Sun](https://github.com/Quan-Sun).
+2023.01 -- Now, Beijing Academy of Artificial Intelligence (BAAI), metored by [Yue Cao](http://yue-cao.me), [Quan Sun](https://github.com/Quan-Sun) and [Xinlong Wang](https://www.xloong.wang).
 
 ## Publications
 
