@@ -38,6 +38,4 @@ Below are some researchers from around the world whom I **greatly admire**:
 
 [Andrej Karpathy](https://karpathy.ai/), [Mu Li](http://www.cs.cmu.edu/~muli/index.html): They have had a profound impact on me with their incredible open-source spirit.
 
-<img src="about.assets/image-20230318215249896.png" alt="image-20230318215249896" style="zoom:25%;" />
-
-Ilya Sutskever
+Ilya Sutskever, Sam Altman.
