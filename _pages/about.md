@@ -18,7 +18,7 @@ My email: yuqy22@mails.tsinghua.edu.cn
 
 ## Research Persuit
 
-I am devoting all myself to pursue the birth of *super intelligence*. Only after this goal is achieved can I truly retire :).
+I am devoting all myself to pursue the birth of safe *super intelligence*. Only after this goal is achieved can I truly retire :).
 
 ~~*big convergence of language, vision and multimodal learning*, to help machines comprehensively understand the fanscinating world, like human. (also well known as, **AGI**)~~
 
