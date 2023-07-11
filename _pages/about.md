@@ -28,13 +28,21 @@ I am devoting all myself to pursue the birth of safe *super intelligence*. Only 
 
 ## Publications
 
+\* Equal Contribution
+
+### Preprint
+
+Quan Sun\*, **Qiying Yu**\*, Yufeng Cui\*, Fan Zhang\*, Xiaosong Zhang\*, Yueze Wang, Hongcheng Gao, Jingjing Liu, Tiejun Huang, Xinlong Wang. [Generative Pretraining in Multimodality](). [[code](https://github.com/baaivision/Emu)]
+
+
+
 **Qiying Yu**, Yimu Wang, Ke Xu, Yang Liu, Jingjing Liu. [Multimodal Federated Learning via Contrastive Representation Ensemble](https://openreview.net/pdf?id=Hnk1WRMAYqg). ICLR 2023. [[code](https://github.com/FLAIR-THU/CreamFL)]
 
 **Qiying Yu**, Jieming Lou, Xianyuan Zhan, Qizhang Li, Wangmeng Zuo, Yang Liu and Jingjing Liu. [Adversarial Contrastive Learning via Asymmetric InfoNCE](https://arxiv.org/abs/2207.08374). ECCV 2022. [[code](https://github.com/yqy2001/A-InfoNCE)]
 
 ## Inspirational Persons:
 
-Below are some researchers from around the world whom I **greatly admire**:
+Below are some persons from around the world whom I **greatly admire**:
 
 [Andrej Karpathy](https://karpathy.ai/), [Mu Li](http://www.cs.cmu.edu/~muli/index.html): They have had a profound impact on me with their incredible open-source spirit.
 
