@@ -12,10 +12,6 @@ I am a first-year PhD student at the [Institute for AI Industry Research (AIR)](
 
 My research interest lies in self-supervised learning, multimodal large foundation models.
 
-Periodically, I'll post blogs about what I've learned about <font color='red'>AI and math</font>. Welcome discussions!
-
-Contact: yuqy22@mails.tsinghua.edu.cn
-
 ## Research Persuit
 
 I am devoting all myself to pursue the birth of safe *super intelligence*. Only after this goal is achieved can I truly retire :).
