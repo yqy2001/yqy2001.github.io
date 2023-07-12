@@ -12,7 +12,7 @@ I am a first-year PhD student at the [Institute for AI Industry Research (AIR)](
 
 My research interest lies in self-supervised learning, multimodal large foundation models.
 
-Periodically, I'll post blogs about what I've learned about <font color='red'>AI or math</font>. Welcome discussions!
+Periodically, I'll post blogs about what I've learned about <font color='red'>AI and math</font>. Welcome discussions!
 
 My email: yuqy22@mails.tsinghua.edu.cn
 
