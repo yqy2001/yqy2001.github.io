@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student at the [Institute for AI Industry Research (AIR)](https://air.tsinghua.edu.cn), Tsinghua University, fortunately advised by Prof.[ Jingjing Liu](https://air.tsinghua.edu.cn/info/1046/1201.htm) (aka JJ) and [Prof. Hao Zhou](https://zhouh.github.io). I also closely collaborate with Prof.[Yang Liu](https://air.tsinghua.edu.cn/info/1046/1204.htm) and Prof.[Yang Liu](https://air.tsinghua.edu.cn/info/1046/1198.htm).
+I am a first-year PhD student at the [Institute for AI Industry Research (AIR)](https://air.tsinghua.edu.cn), Tsinghua University, fortunately advised by Prof.[ Jingjing Liu](https://air.tsinghua.edu.cn/en/info/1046/1194.htm) (aka JJ) and [Prof. Hao Zhou](https://zhouh.github.io). I also closely collaborate with Prof.[Yang Liu](https://air.tsinghua.edu.cn/en/info/1046/1191.htm) and Prof.[Yang Liu](https://air.tsinghua.edu.cn/en/info/1046/1197.htm).
 
 My research interest lies in self-supervised learning, multimodal large foundation models.
 
