@@ -14,7 +14,7 @@ My research interest lies in self-supervised learning, multimodal large foundati
 
 Periodically, I'll post blogs about what I've learned about <font color='red'>AI and math</font>. Welcome discussions!
 
-My email: yuqy22@mails.tsinghua.edu.cn
+Contact: yuqy22@mails.tsinghua.edu.cn
 
 ## Research Persuit
 
