@@ -40,7 +40,7 @@ Quan Sun\*, **Qiying Yu**\*, Yufeng Cui\*, Fan Zhang\*, Xiaosong Zhang\*, Yueze 
 
 ### [OpenChat: Advancing Open-source Language Models with Imperfect Data](https://github.com/imoneoi/openchat) 
 
-* **OpenChat v1 ranks #1 of all open-source models (Vicuna, Alpaca, UltraLM, etc) on Stanford's [AlpacaEval](https://tatsu-lab.github.io/alpaca_eval/)**
+* **OpenChat v1 ranks #1 among all open-source models (Vicuna, Alpaca, UltraLM, etc) on Stanford's [AlpacaEval](https://tatsu-lab.github.io/alpaca_eval/)**
 * **OpenChat v2 outperforms ChatGPT on [AlpacaEval](https://tatsu-lab.github.io/alpaca_eval/)**
 
 ## Inspirational Persons:
