@@ -32,13 +32,20 @@ I am devoting all myself to pursue the birth of safe *super intelligence*. Only 
 
 ### Preprint
 
-Quan Sun\*, **Qiying Yu**\*, Yufeng Cui\*, Fan Zhang\*, Xiaosong Zhang\*, Yueze Wang, Hongcheng Gao, Jingjing Liu, Tiejun Huang, Xinlong Wang. [Generative Pretraining in Multimodality](). [[code](https://github.com/baaivision/Emu)]
+Quan Sun\*, **Qiying Yu**\*, Yufeng Cui\*, Fan Zhang\*, Xiaosong Zhang\*, Yueze Wang, Hongcheng Gao, Jingjing Liu, Tiejun Huang, Xinlong Wang. [Generative Pretraining in Multimodality](https://arxiv.org/abs/2307.05222). [[code](https://github.com/baaivision/Emu)]
 
 
 
 **Qiying Yu**, Yimu Wang, Ke Xu, Yang Liu, Jingjing Liu. [Multimodal Federated Learning via Contrastive Representation Ensemble](https://openreview.net/pdf?id=Hnk1WRMAYqg). ICLR 2023. [[code](https://github.com/FLAIR-THU/CreamFL)]
 
 **Qiying Yu**, Jieming Lou, Xianyuan Zhan, Qizhang Li, Wangmeng Zuo, Yang Liu and Jingjing Liu. [Adversarial Contrastive Learning via Asymmetric InfoNCE](https://arxiv.org/abs/2207.08374). ECCV 2022. [[code](https://github.com/yqy2001/A-InfoNCE)]
+
+## Projects
+
+### [OpenChat: Advancing Open-source Language Models with Imperfect Data](https://github.com/imoneoi/openchat) 
+
+* **OpenChat v1 ranks #1 of all open-source models (Vicuna, Alpaca, UltraLM, etc) on Stanford's [AlpacaEval](https://tatsu-lab.github.io/alpaca_eval/)**
+* **OpenChat v2 outperforms ChatGPT on [AlpacaEval](https://tatsu-lab.github.io/alpaca_eval/)**
 
 ## Inspirational Persons:
 
