@@ -30,6 +30,8 @@ I am devoting all myself to pursue the birth of safe *super intelligence*. Only 
 
 Quan Sun\*, **Qiying Yu**\*, Yufeng Cui\*, Fan Zhang\*, Xiaosong Zhang\*, Yueze Wang, Hongcheng Gao, Jingjing Liu, Tiejun Huang, Xinlong Wang. [Generative Pretraining in Multimodality](https://arxiv.org/abs/2307.05222). [[code](https://github.com/baaivision/Emu)]
 
+**Qiying Yu**, Yudi Zhang, Yuyan Ni, Shikun Feng, Yanyan Lan, Hao Zhou, Jingjing Liu. [Unified Molecular Modeling via Modality Blending](https://arxiv.org/abs/2307.06235). [[code]()]
+
 ### Conference
 
 **Qiying Yu**, Yimu Wang, Ke Xu, Yang Liu, Jingjing Liu. [Multimodal Federated Learning via Contrastive Representation Ensemble](https://openreview.net/pdf?id=Hnk1WRMAYqg). ICLR 2023. [[code](https://github.com/FLAIR-THU/CreamFL)]
