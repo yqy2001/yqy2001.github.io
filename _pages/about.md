@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student at the [Institute for AI Industry Research (AIR)](https://air.tsinghua.edu.cn), Tsinghua University, fortunately advised by Prof.[ Jingjing Liu](https://air.tsinghua.edu.cn/en/info/1046/1194.htm) (aka JJ) and [Prof. Hao Zhou](https://zhouh.github.io). I also closely collaborate with Prof.[Yang Liu](https://air.tsinghua.edu.cn/en/info/1046/1191.htm) and Prof.[Yang Liu](https://air.tsinghua.edu.cn/en/info/1046/1197.htm).
+I am a second-year PhD student at the [Institute for AI Industry Research (AIR)](https://air.tsinghua.edu.cn), Tsinghua University, fortunately advised by Prof.[ Jingjing Liu](https://air.tsinghua.edu.cn/en/info/1046/1194.htm) (aka JJ) and [Prof. Hao Zhou](https://zhouh.github.io).
 
 My research interest lies in self-supervised learning, multimodal large foundation models.
 
 ## Research Persuit
 
 I am devoting all myself to pursue the birth of safe *super intelligence*. Only after this goal is achieved can I truly retire :).
+
+Long way to go.
 
 ~~*big convergence of language, vision and multimodal learning*, to help machines comprehensively understand the fanscinating world, like human. (also well known as, **AGI**)~~
 
@@ -28,6 +30,8 @@ I am devoting all myself to pursue the birth of safe *super intelligence*. Only 
 
 ### Preprint
 
+**Qiying Yu**\*, Quan Sun\*, Xiaosong Zhang, Yufeng Cui, Fan Zhang, Yue Cao, Xinlong Wang, Jingjing Liu. [CapsFusion: Rethinking Image-text Data at Scale](https://arxiv.org/abs/2310.20550). [[code&data](https://github.com/baaivision/CapsFusion), to release]
+
 Quan Sun\*, **Qiying Yu**\*, Yufeng Cui\*, Fan Zhang\*, Xiaosong Zhang\*, Yueze Wang, Hongcheng Gao, Jingjing Liu, Tiejun Huang, Xinlong Wang. [Generative Pretraining in Multimodality](https://arxiv.org/abs/2307.05222). [[code](https://github.com/baaivision/Emu)]
 
 **Qiying Yu**, Yudi Zhang, Yuyan Ni, Shikun Feng, Yanyan Lan, Hao Zhou, Jingjing Liu. [Unified Molecular Modeling via Modality Blending](https://arxiv.org/abs/2307.06235). [[code]()]
@@ -37,13 +41,6 @@ Quan Sun\*, **Qiying Yu**\*, Yufeng Cui\*, Fan Zhang\*, Xiaosong Zhang\*, Yueze 
 **Qiying Yu**, Yimu Wang, Ke Xu, Yang Liu, Jingjing Liu. [Multimodal Federated Learning via Contrastive Representation Ensemble](https://openreview.net/pdf?id=Hnk1WRMAYqg). ICLR 2023. [[code](https://github.com/FLAIR-THU/CreamFL)]
 
 **Qiying Yu**, Jieming Lou, Xianyuan Zhan, Qizhang Li, Wangmeng Zuo, Yang Liu and Jingjing Liu. [Adversarial Contrastive Learning via Asymmetric InfoNCE](https://arxiv.org/abs/2207.08374). ECCV 2022. [[code](https://github.com/yqy2001/A-InfoNCE)]
-
-## Projects
-
-### [OpenChat: Advancing Open-source Language Models with Imperfect Data](https://github.com/imoneoi/openchat) 
-
-* **OpenChat v1 ranks #1 among all open-source models (Vicuna, Alpaca, UltraLM, etc) on Stanford's [AlpacaEval](https://tatsu-lab.github.io/alpaca_eval/)**
-* **OpenChat v2 outperforms ChatGPT on [AlpacaEval](https://tatsu-lab.github.io/alpaca_eval/)**
 
 ## Inspirational Persons:
 
