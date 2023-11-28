@@ -12,6 +12,12 @@ I am a second-year PhD student at the [Institute for AI Industry Research (AIR)]
 
 My research interest lies in self-supervised learning, multimodal large foundation models.
 
+I love coding and playing with complicated source code, love the same feeling as [Greg Brockman](https://x.com/gdb/status/1728308513888170134?s=20):
+
+```
+that feeling when you finally understand a piece of previously inscrutable code
+```
+
 ## Research Persuit
 
 I am devoting all myself to pursue the birth of safe *super intelligence*. Only after this goal is achieved can I truly retire :).
