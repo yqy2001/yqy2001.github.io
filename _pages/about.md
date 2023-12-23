@@ -43,12 +43,13 @@ Long way to go.
 Quan Sun\*, Yufeng Cui\*, Xiaosong Zhang\*, Fan Zhang\*, **Qiying Yu\***, Zhengxiong Luo, Yueze Wang, Yongming Rao, Jingjing Liu, Tiejun Huang, Xinlong Wang. [Generative Multimodal Models are In-Context Learners](https://arxiv.org/abs/2312.13286). [[code](https://github.com/baaivision/Emu)] [[project](https://baaivision.github.io/emu2/)] [[demo](https://huggingface.co/spaces/BAAI/Emu2)]  
 ([Featured in HuggingFace🤗 Daily Paper](https://huggingface.co/papers?date=2023-12-21))
 
-**Qiying Yu**\*, Quan Sun\*, Xiaosong Zhang, Yufeng Cui, Fan Zhang, Yue Cao, Xinlong Wang, Jingjing Liu. [CapsFusion: Rethinking Image-text Data at Scale](https://arxiv.org/abs/2310.20550). [[code&data](https://github.com/baaivision/CapsFusion)]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;([Featured in HuggingFace🤗 Daily Paper](https://huggingface.co/papers?date=2023-11-01))
+**Qiying Yu**\*, Quan Sun\*, Xiaosong Zhang, Yufeng Cui, Fan Zhang, Yue Cao, Xinlong Wang, Jingjing Liu. [CapsFusion: Rethinking Image-text Data at Scale](https://arxiv.org/abs/2310.20550). [[code&data](https://github.com/baaivision/CapsFusion)]  
+([Featured in HuggingFace🤗 Daily Paper](https://huggingface.co/papers?date=2023-11-01))
 
-Quan Sun\*, **Qiying Yu**\*, Yufeng Cui\*, Fan Zhang\*, Xiaosong Zhang\*, Yueze Wang, Hongcheng Gao, Jingjing Liu, Tiejun Huang, Xinlong Wang. [Generative Pretraining in Multimodality](https://arxiv.org/abs/2307.05222). [[code](https://github.com/baaivision/Emu)] 
+Quan Sun\*, **Qiying Yu**\*, Yufeng Cui\*, Fan Zhang\*, Xiaosong Zhang\*, Yueze Wang, Hongcheng Gao, Jingjing Liu, Tiejun Huang, Xinlong Wang. [Generative Pretraining in Multimodality](https://arxiv.org/abs/2307.05222). [[code](https://github.com/baaivision/Emu)]  
 ([Featured in HuggingFace🤗 Daily Paper](https://huggingface.co/papers?date=2023-07-12))
 
-**Qiying Yu**, Yudi Zhang, Yuyan Ni, Shikun Feng, Yanyan Lan, Hao Zhou, Jingjing Liu. [Unified Molecular Modeling via Modality Blending](https://arxiv.org/abs/2307.06235). [[code]()]
+**Qiying Yu**, Yudi Zhang, Yuyan Ni, Shikun Feng, Yanyan Lan, Hao Zhou, Jingjing Liu. [Unified Molecular Modeling via Modality Blending](https://arxiv.org/abs/2307.06235).
 
 ### Conference
 
