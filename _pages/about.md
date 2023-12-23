@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student at the [Institute for AI Industry Research (AIR)](https://air.tsinghua.edu.cn), Tsinghua University, advised by Prof.[ Jingjing Liu](https://air.tsinghua.edu.cn/en/info/1046/1194.htm) (aka JJ) and [Prof. Hao Zhou](https://zhouh.github.io).
+I am a second-year PhD student at the [Institute for AI Industry Research (AIR)](https://air.tsinghua.edu.cn), Tsinghua University, advised by [Prof. Jingjing Liu](https://air.tsinghua.edu.cn/en/info/1046/1194.htm) (aka JJ) and [Prof. Hao Zhou](https://zhouh.github.io).
 
 My research interest lies in self-supervised learning, multimodal large foundation models.
 
@@ -26,7 +26,11 @@ Long way to go.
 
 ~~*big convergence of language, vision and multimodal learning*, to help machines comprehensively understand the fanscinating world, like human. (also well known as, **AGI**)~~
 
-## Internships
+## 🚀 News
+
+- `Dec, 23`: We are thrilled to announce [Emu2](https://baaivision.github.io/emu2/), the most capable open-weight vision-language multimodal model, which can both understand and draw images. Try the [demo](https://huggingface.co/spaces/BAAI/Emu2)!
+
+## Internship
 
 2023.01 -- Now, Beijing Academy of Artificial Intelligence (BAAI), metored by [Yue Cao](http://yue-cao.me), [Quan Sun](https://github.com/Quan-Sun) and [Xinlong Wang](https://www.xloong.wang).
 
@@ -36,7 +40,10 @@ Long way to go.
 
 ### Preprint
 
-**Qiying Yu**\*, Quan Sun\*, Xiaosong Zhang, Yufeng Cui, Fan Zhang, Yue Cao, Xinlong Wang, Jingjing Liu. [CapsFusion: Rethinking Image-text Data at Scale](https://arxiv.org/abs/2310.20550). [[code&data](https://github.com/baaivision/CapsFusion), to release] 
+Quan Sun\*, Yufeng Cui\*, Xiaosong Zhang\*, Fan Zhang\*, **Qiying Yu\***, Zhengxiong Luo, Yueze Wang, Yongming Rao, Jingjing Liu, Tiejun Huang, Xinlong Wang. [Generative Multimodal Models are In-Context Learners](https://arxiv.org/abs/2312.13286). [[code](https://github.com/baaivision/Emu)] [[project](https://baaivision.github.io/emu2/)] [[demo](https://huggingface.co/spaces/BAAI/Emu2)] 
+([Featured in HuggingFace🤗 Daily Paper](https://huggingface.co/papers?date=2023-12-21))
+
+**Qiying Yu**\*, Quan Sun\*, Xiaosong Zhang, Yufeng Cui, Fan Zhang, Yue Cao, Xinlong Wang, Jingjing Liu. [CapsFusion: Rethinking Image-text Data at Scale](https://arxiv.org/abs/2310.20550). [[code&data](https://github.com/baaivision/CapsFusion)] 
 ([Featured in HuggingFace🤗 Daily Paper](https://huggingface.co/papers?date=2023-11-01))
 
 Quan Sun\*, **Qiying Yu**\*, Yufeng Cui\*, Fan Zhang\*, Xiaosong Zhang\*, Yueze Wang, Hongcheng Gao, Jingjing Liu, Tiejun Huang, Xinlong Wang. [Generative Pretraining in Multimodality](https://arxiv.org/abs/2307.05222). [[code](https://github.com/baaivision/Emu)] 
@@ -52,7 +59,7 @@ Quan Sun\*, **Qiying Yu**\*, Yufeng Cui\*, Fan Zhang\*, Xiaosong Zhang\*, Yueze 
 
 ## Academic Services
 
-**Reviewer:** NIPS 2023, ICLR 2023
+**Reviewer:** NIPS 2023, ICLR 2023, ICML 2024
 
 ## Inspirational Persons
 
