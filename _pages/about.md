@@ -32,7 +32,7 @@ Long way to go.
 
 ## Internship
 
-2023.01 -- Now, Beijing Academy of Artificial Intelligence (BAAI), metored by [Yue Cao](http://yue-cao.me), [Quan Sun](https://github.com/Quan-Sun) and [Xinlong Wang](https://www.xloong.wang).
+2023.01 -- Now, Beijing Academy of Artificial Intelligence (BAAI), mentored by [Yue Cao](http://yue-cao.me), [Quan Sun](https://github.com/Quan-Sun) and [Xinlong Wang](https://www.xloong.wang).
 
 ## Publications
 
