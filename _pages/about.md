@@ -18,6 +18,8 @@ I love coding and playing with complicated source code, love the same feeling as
 that feeling when you finally understand a piece of previously inscrutable code
 ```
 
+I am interested in physics and in approximating the truth of our physical world.
+
 ## Research Persuit
 
 I am devoting all myself to pursue the birth of safe *super intelligence*. Only after this goal is achieved can I truly retire :).
@@ -67,4 +69,7 @@ Below are some persons from around the world whom I **greatly admire**:
 
 [Andrej Karpathy](https://karpathy.ai/), [Mu Li](http://www.cs.cmu.edu/~muli/index.html): They have had a profound impact on me with their incredible open-source spirit.
 
-Ilya Sutskever, Sam Altman.
+Ilya Sutskever, Sam Altman
+
+Edward Witten: He revolutionized my understanding of the physical world surrounding me.
+
