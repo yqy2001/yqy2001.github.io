@@ -18,7 +18,7 @@ I love coding and playing with complicated source code, love the same feeling as
 that feeling when you finally understand a piece of previously inscrutable code
 ```
 
-I am interested in physics and in approximating the truth of our physical world.
+I am interested in physics and in approximating the truth of our universe.
 
 ## Research Persuit
 
@@ -61,7 +61,7 @@ Quan Sun\*, **Qiying Yu**\*, Yufeng Cui\*, Fan Zhang\*, Xiaosong Zhang\*, Yueze 
 
 ## Academic Services
 
-**Reviewer:** NIPS 2023, ICLR 2023, ICML 2024
+**Reviewer:** NIPS 2023, ICLR 2023, CVPR 2024, ICML 2024
 
 ## Inspirational Persons
 
@@ -70,6 +70,8 @@ Below are some persons from around the world whom I **greatly admire**:
 [Andrej Karpathy](https://karpathy.ai/), [Mu Li](http://www.cs.cmu.edu/~muli/index.html): They have had a profound impact on me with their incredible open-source spirit.
 
 Ilya Sutskever, Sam Altman
+
+Greg Brockman: President of OpenAI. It is amazing that he still writes low-level code at such a high-level position.
 
 Edward Witten: He revolutionized my understanding of the physical world surrounding me.
 
