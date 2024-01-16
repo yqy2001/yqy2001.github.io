@@ -48,12 +48,12 @@ Quan Sun\*, Yufeng Cui\*, Xiaosong Zhang\*, Fan Zhang\*, **Qiying Yu\***, Zhengx
 **Qiying Yu**\*, Quan Sun\*, Xiaosong Zhang, Yufeng Cui, Fan Zhang, Yue Cao, Xinlong Wang, Jingjing Liu. [CapsFusion: Rethinking Image-text Data at Scale](https://arxiv.org/abs/2310.20550). [[code&data](https://github.com/baaivision/CapsFusion)]  
 ([Featured in HuggingFace🤗 Daily Paper](https://huggingface.co/papers?date=2023-11-01))
 
-Quan Sun\*, **Qiying Yu**\*, Yufeng Cui\*, Fan Zhang\*, Xiaosong Zhang\*, Yueze Wang, Hongcheng Gao, Jingjing Liu, Tiejun Huang, Xinlong Wang. [Generative Pretraining in Multimodality](https://arxiv.org/abs/2307.05222). [[code](https://github.com/baaivision/Emu)]  
+### Conference
+
+Quan Sun\*, **Qiying Yu**\*, Yufeng Cui\*, Fan Zhang\*, Xiaosong Zhang\*, Yueze Wang, Hongcheng Gao, Jingjing Liu, Tiejun Huang, Xinlong Wang. [Generative Pretraining in Multimodality](https://arxiv.org/abs/2307.05222). ICLR 2024. [[code](https://github.com/baaivision/Emu)]  
 ([Featured in HuggingFace🤗 Daily Paper](https://huggingface.co/papers?date=2023-07-12))
 
-**Qiying Yu**, Yudi Zhang, Yuyan Ni, Shikun Feng, Yanyan Lan, Hao Zhou, Jingjing Liu. [Unified Molecular Modeling via Modality Blending](https://arxiv.org/abs/2307.06235).
-
-### Conference
+**Qiying Yu**, Yudi Zhang, Yuyan Ni, Shikun Feng, Yanyan Lan, Hao Zhou, Jingjing Liu. [Multimodal Molecular Pretraining via Modality Blending](https://arxiv.org/abs/2307.06235).  ICLR 2024.
 
 **Qiying Yu**, Yimu Wang, Ke Xu, Yang Liu, Jingjing Liu. [Multimodal Federated Learning via Contrastive Representation Ensemble](https://openreview.net/pdf?id=Hnk1WRMAYqg). ICLR 2023. [[code](https://github.com/FLAIR-THU/CreamFL)]
 
