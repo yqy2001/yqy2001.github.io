@@ -42,7 +42,7 @@ Long way to go.
 
 ### Preprint
 
-Quan Sun\*, Jinsheng Wang*, **Qiying Yu\***, Yufeng Cui, Fan Zhang, Xiaosong Zhang, Xinlong Wang. [EVA-CLIP-18B: Scaling CLIP to 18 Billion Parameters](https://arxiv.org/pdf/2402.04252.pdf). [[code](https://github.com/baaivision/EVA/tree/master/EVA-CLIP-18B)]
+Quan Sun\*, Jinsheng Wang*, **Qiying Yu\***, Yufeng Cui, Fan Zhang, Xiaosong Zhang, Xinlong Wang. [EVA-CLIP-18B: Scaling CLIP to 18 Billion Parameters](https://arxiv.org/pdf/2402.04252.pdf). [[code](https://github.com/baaivision/EVA/tree/master/EVA-CLIP-18B)]  
 ([Featured in HuggingFace🤗 Daily Paper](https://huggingface.co/papers?date=2024-02-07))
 
 ### Conference
