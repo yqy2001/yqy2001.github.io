@@ -14,9 +14,7 @@ My research interest lies in self-supervised learning, multimodal large foundati
 
 I love coding and playing with complicated source code, love the same feeling as [Greg Brockman](https://x.com/gdb/status/1728308513888170134?s=20):
 
-```
-that feeling when you finally understand a piece of previously inscrutable code
-```
+> that feeling when you finally understand a piece of previously inscrutable code
 
 I am interested in physics and in approximating the truth of our universe.
 
@@ -36,22 +34,17 @@ Long way to go.
 
 2023.01 -- Now, Beijing Academy of Artificial Intelligence (BAAI), mentored by [Xinlong Wang](https://www.xloong.wang), [Quan Sun](https://github.com/Quan-Sun) and [Yue Cao](http://yue-cao.me).
 
-## Publications
+## First & Co-First Author Publications (Core Contribution)
 
 \* Equal Contribution
 
-### Preprint
-
-Quan Sun\*, Jinsheng Wang*, **Qiying Yu\***, Yufeng Cui, Fan Zhang, Xiaosong Zhang, Xinlong Wang. [EVA-CLIP-18B: Scaling CLIP to 18 Billion Parameters](https://arxiv.org/pdf/2402.04252.pdf). [[code](https://github.com/baaivision/EVA/tree/master/EVA-CLIP-18B)]  
-([Featured in HuggingFace🤗 Daily Paper](https://huggingface.co/papers?date=2024-02-07))
-
 ### Conference
-
-Quan Sun\*, Yufeng Cui\*, Xiaosong Zhang\*, Fan Zhang\*, **Qiying Yu\***, Zhengxiong Luo, Yueze Wang, Yongming Rao, Jingjing Liu, Tiejun Huang, Xinlong Wang. [Generative Multimodal Models are In-Context Learners](https://arxiv.org/abs/2312.13286). CVPR 2024. [[code](https://github.com/baaivision/Emu)] [[project](https://baaivision.github.io/emu2/)] [[demo](https://huggingface.co/spaces/BAAI/Emu2)]  
-([Featured in HuggingFace🤗 Daily Paper](https://huggingface.co/papers?date=2023-12-21))
 
 **Qiying Yu**\*, Quan Sun\*, Xiaosong Zhang, Yufeng Cui, Fan Zhang, Yue Cao, Xinlong Wang, Jingjing Liu. [CapsFusion: Rethinking Image-text Data at Scale](https://arxiv.org/abs/2310.20550). CVPR 2024. [[code&data](https://github.com/baaivision/CapsFusion)]  
 ([Featured in HuggingFace🤗 Daily Paper](https://huggingface.co/papers?date=2023-11-01))
+
+Quan Sun\*, Yufeng Cui\*, Xiaosong Zhang\*, Fan Zhang\*, **Qiying Yu\***, Zhengxiong Luo, Yueze Wang, Yongming Rao, Jingjing Liu, Tiejun Huang, Xinlong Wang. [Generative Multimodal Models are In-Context Learners](https://arxiv.org/abs/2312.13286). CVPR 2024. [[code](https://github.com/baaivision/Emu)] [[project](https://baaivision.github.io/emu2/)] [[demo](https://huggingface.co/spaces/BAAI/Emu2)]  
+([Featured in HuggingFace🤗 Daily Paper](https://huggingface.co/papers?date=2023-12-21))
 
 Quan Sun\*, **Qiying Yu**\*, Yufeng Cui\*, Fan Zhang\*, Xiaosong Zhang\*, Yueze Wang, Hongcheng Gao, Jingjing Liu, Tiejun Huang, Xinlong Wang. [Generative Pretraining in Multimodality](https://arxiv.org/abs/2307.05222). ICLR 2024. [[code](https://github.com/baaivision/Emu)]  
 ([Featured in HuggingFace🤗 Daily Paper](https://huggingface.co/papers?date=2023-07-12))
@@ -61,6 +54,11 @@ Quan Sun\*, **Qiying Yu**\*, Yufeng Cui\*, Fan Zhang\*, Xiaosong Zhang\*, Yueze 
 **Qiying Yu**, Yimu Wang, Ke Xu, Yang Liu, Jingjing Liu. [Multimodal Federated Learning via Contrastive Representation Ensemble](https://openreview.net/pdf?id=Hnk1WRMAYqg). ICLR 2023. [[code](https://github.com/FLAIR-THU/CreamFL)]
 
 **Qiying Yu**, Jieming Lou, Xianyuan Zhan, Qizhang Li, Wangmeng Zuo, Yang Liu and Jingjing Liu. [Adversarial Contrastive Learning via Asymmetric InfoNCE](https://arxiv.org/abs/2207.08374). ECCV 2022. [[code](https://github.com/yqy2001/A-InfoNCE)]
+
+### Preprint
+
+Quan Sun\*, Jinsheng Wang*, **Qiying Yu\***, Yufeng Cui, Fan Zhang, Xiaosong Zhang, Xinlong Wang. [EVA-CLIP-18B: Scaling CLIP to 18 Billion Parameters](https://arxiv.org/pdf/2402.04252.pdf). [[code](https://github.com/baaivision/EVA/tree/master/EVA-CLIP-18B)]  
+([Featured in HuggingFace🤗 Daily Paper](https://huggingface.co/papers?date=2024-02-07))
 
 ## Academic Services
 
