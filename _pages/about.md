@@ -24,8 +24,6 @@ I am devoting all myself to pursue the birth of safe *super intelligence*. Only 
 
 Long way to go.
 
-~~*big convergence of language, vision and multimodal learning*, to help machines comprehensively understand the fanscinating world, like human. (also well known as, **AGI**)~~
-
 ## 🚀 News
 
 - `Dec, 23`: We are thrilled to announce [Emu2](https://baaivision.github.io/emu2/), the most capable open-weight vision-language multimodal model, which can both understand and draw images. Try the [demo](https://huggingface.co/spaces/BAAI/Emu2)!
