@@ -36,8 +36,6 @@ Long way to go.
 
 \* Equal Contribution
 
-### Conference
-
 **Qiying Yu**\*, Quan Sun\*, Xiaosong Zhang, Yufeng Cui, Fan Zhang, Yue Cao, Xinlong Wang, Jingjing Liu. [CapsFusion: Rethinking Image-text Data at Scale](https://arxiv.org/abs/2310.20550). CVPR 2024. [[code&data](https://github.com/baaivision/CapsFusion)]  
 ([Featured in HuggingFace🤗 Daily Paper](https://huggingface.co/papers?date=2023-11-01))
 
